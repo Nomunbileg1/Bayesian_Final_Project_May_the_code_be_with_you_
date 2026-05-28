@@ -1,2 +1,0 @@
-# Bayesian_Final_Project_May_the_code_be_with_you_
-Final Project for Bayesian Machine Learning
